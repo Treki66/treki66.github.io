@@ -177,7 +177,7 @@
             },
             "categories": ["Porte-clé"],
             "images": [
-                { "image": "/creations/meduse_1.png", "label": "3mm chenille" },
+                { "image": "/creations/meduse_1.jpg", "label": "3mm chenille" },
                 { "image": "/creations/meduse_2.jpg", "label": "3mm chenille" },
                 { "image": "/creations/meduse_3.jpg", "label": "3mm chenille" }
             ],
@@ -378,7 +378,9 @@
             },
             "categories": ["Peluche"],
             "images": [
-                { "image": "/creations/ane_1.png", "label": "3mm chenille" }
+                { "image": "/creations/ane_1.jpg", "label": "3mm chenille" },
+                { "image": "/creations/ane_2.jpg", "label": "3mm chenille" },
+                { "image": "/creations/ane_3.jpg", "label": "3mm chenille" }
             ],
             "informations": [
                 {
@@ -612,7 +614,7 @@
         {
             "id": "19",
             "name": "Tortue",
-            "description": "Une tortue toute douce, avec sa carapace bien ronde et son rythme tranquille. Disponible en peluche ou en porte-clé, pour t'accompagner à ton rythme.",
+            "description": "Une tortue toute douce, avec sa carapace bien ronde et son rythme tranquille. Disponible en peluche ou en porte-clé.",
             "sizes": {
                 "3mm chenille": 8,
                 "3mm coton": 12,
@@ -621,8 +623,11 @@
             "categories": ["Peluche", "Porte-clé"],
             "images": [
                 { "image": "/creations/tortue_1.jpg", "label": "3mm chenille" },
+                { "image": "/creations/tortue_4.jpg", "label": "6mm chenille" },
                 { "image": "/creations/tortue_2.jpg", "label": "3mm chenille" },
-                { "image": "/creations/tortue_3.jpg", "label": "3mm chenille" }
+                { "image": "/creations/tortue_3.jpg", "label": "3mm chenille" },
+                { "image": "/creations/tortue_5.jpg", "label": "6mm chenille" },
+                { "image": "/creations/tortue_6.jpg", "label": "6mm chenille" }
             ],
             "informations": [
                 {
@@ -740,6 +745,109 @@
                 {
                     "title": "Idée cadeau",
                     "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin", "Parfait pour une naissance"]
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "name": "Koala",
+            "description": "Un koala tout en rondeurs, avec ses grandes oreilles duveteuses, son ventre tout doux et son gros nez noir qui lui donne un air irrésistible. Increvable de mignonnerie, parfait pour un câlin ou une place d'honneur sur une étagère.",
+            "sizes": {
+                "3mm chenille": 15,
+                "3mm coton": 20,
+                "6mm chenille": 30
+            },
+            "categories": ["Peluche"],
+            "images": [
+                { "image": "/creations/koala_1.jpg", "label": "6mm chenille" },
+                { "image": "/creations/koala_2.jpg", "label": "6mm chenille" },
+                { "image": "/creations/koala_3.jpg", "label": "6mm chenille" }
+            ],
+            "informations": [
+                {
+                    "title": "Caractéristiques",
+                    "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
+                },
+                {
+                    "title": "Entretien",
+                    "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
+                },
+                {
+                    "title": "Sécurité & âge recommandé",
+                    "lines": ["Déconseillé aux moins de 3 ans en raison de petits éléments (yeux de sécurité)", "Sur demande, les yeux peuvent être brodés pour une version adaptée aux tout-petits"]
+                },
+                {
+                    "title": "Idée cadeau",
+                    "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Axolotl",
+            "description": "Un axolotl tout rond, avec ses petites branchies mauves en éventail et ses joues bien roses. Une bouille attendrissante disponible en porte-clé pour vous accompagner partout.",
+            "sizes": {
+                "3mm chenille": 8,
+                "3mm coton": 12
+            },
+            "categories": ["Porte-clé"],
+            "images": [
+                { "image": "/creations/axolotl_1.jpg", "label": "3mm chenille" },
+                { "image": "/creations/axolotl_2.jpg", "label": "3mm chenille" },
+                { "image": "/creations/axolotl_3.jpg", "label": "3mm chenille" }
+            ],
+            "informations": [
+                {
+                    "title": "Caractéristiques",
+                    "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible (+0,50 €)"]
+                },
+                {
+                    "title": "Entretien",
+                    "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
+                },
+                {
+                    "title": "Sécurité & âge recommandé",
+                    "lines": ["Déconseillé aux moins de 3 ans en raison de petits éléments (yeux de sécurité)", "Sur demande, les yeux peuvent être brodés pour une version adaptée aux tout-petits"]
+                },
+                {
+                    "title": "Idée cadeau",
+                    "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "name": "Lapin porte-clé",
+            "description": "Un tout petit lapin bien rond, avec ses oreilles (dressées ou tombantes selon l'humeur) et son ventre orné de petites fleurs brodées. Décliné dans plusieurs formes d'oreille et coloris, il se glisse aussi bien sur un sac qu'un trousseau de clés.",
+            "sizes": {
+                "3mm chenille": 8,
+                "3mm coton": 12
+            },
+            "categories": ["Porte-clé"],
+            "images": [
+                { "image": "/creations/lapin_petit_1.jpg", "label": "3mm chenille" },
+                { "image": "/creations/lapin_petit_2.jpg", "label": "3mm chenille" },
+                { "image": "/creations/lapin_petit_3.jpg", "label": "3mm chenille" },
+                { "image": "/creations/lapin_petit_4.jpg", "label": "3mm chenille" },
+                { "image": "/creations/lapin_petit_5.jpg", "label": "3mm chenille" },
+                { "image": "/creations/lapin_petit_6.jpg", "label": "3mm chenille" }
+            ],
+            "informations": [
+                {
+                    "title": "Caractéristiques",
+                    "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible (+0,50 €)"]
+                },
+                {
+                    "title": "Entretien",
+                    "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
+                },
+                {
+                    "title": "Sécurité & âge recommandé",
+                    "lines": ["Déconseillé aux moins de 3 ans en raison de petits éléments (yeux de sécurité)", "Sur demande, les yeux peuvent être brodés pour une version adaptée aux tout-petits"]
+                },
+                {
+                    "title": "Idée cadeau",
+                    "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
                 }
             ]
         }

@@ -2,10 +2,13 @@
   text-decoration: none;
   color: inherit;
   display: block;
+  animation: cardFadeIn 0.25s ease both;
+  height: 100%;
 }
 
 .card {
   width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -16,7 +19,6 @@
     border-color 0.2s ease;
   cursor: pointer;
   border: 0.5px solid var(--border-light-color);
-  max-height: 600px;
 }
 
 .carousel .card {
@@ -108,6 +110,7 @@
   flex-direction: column;
   gap: 0;
   border-top: 0.5px solid var(--border-light-color);
+  flex: 1;
 }
 
 .card_size_item {
@@ -152,8 +155,4 @@
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-.card-link {
-  animation: cardFadeIn 0.25s ease both;
 }
