@@ -23,6 +23,10 @@
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
                 },
                 {
+                    "title": "Dimensions",
+                    "lines": ["3mm - 16cm de haut / 17cm de large"]
+                },
+                {
                     "title": "Entretien",
                     "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
                 },
@@ -90,6 +94,10 @@
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
                 },
                 {
+                    "title": "Dimensions",
+                    "lines": ["6mm - 14cm de haut / 12cm de large"]
+                },
+                {
                     "title": "Entretien",
                     "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
                 },
@@ -121,6 +129,10 @@
                 {
                     "title": "Caractéristiques",
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["6mm - 30cm de haut / 35cm de large"]
                 },
                 {
                     "title": "Entretien",
@@ -313,12 +325,16 @@
             "images": [
                 { "image": "/creations/chat_banane_1.jpg", "label": "3mm chenille" },
                 { "image": "/creations/chat_banane_2.jpg", "label": "3mm chenille" },
-                { "image": "/creations/chat_banane_3.png", "label": "3mm chenille" }
+                { "image": "/creations/chat_banane_3.jpg", "label": "3mm chenille" }
             ],
             "informations": [
                 {
                     "title": "Caractéristiques",
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible sur les modèles 3mm (+0,50 €)"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["3mm - 11cm de haut / 9cm de large"]
                 },
                 {
                     "title": "Entretien",
@@ -498,6 +514,10 @@
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
                 },
                 {
+                    "title": "Dimensions",
+                    "lines": ["6mm - 29cm de haut / 15cm de large"]
+                },
+                {
                     "title": "Entretien",
                     "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
                 },
@@ -535,6 +555,10 @@
                 {
                     "title": "Caractéristiques",
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["3mm - 24cm de haut / 14cm de large"]
                 },
                 {
                     "title": "Entretien",
@@ -623,11 +647,8 @@
             "categories": ["Peluche", "Porte-clé"],
             "images": [
                 { "image": "/creations/tortue_1.jpg", "label": "3mm chenille" },
-                { "image": "/creations/tortue_4.jpg", "label": "6mm chenille" },
                 { "image": "/creations/tortue_2.jpg", "label": "3mm chenille" },
-                { "image": "/creations/tortue_3.jpg", "label": "3mm chenille" },
-                { "image": "/creations/tortue_5.jpg", "label": "6mm chenille" },
-                { "image": "/creations/tortue_6.jpg", "label": "6mm chenille" }
+                { "image": "/creations/tortue_3.jpg", "label": "3mm chenille" }
             ],
             "informations": [
                 {
@@ -769,6 +790,10 @@
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
                 },
                 {
+                    "title": "Dimensions",
+                    "lines": ["6mm - 15cm de haut / 11cm de large"]
+                },
+                {
                     "title": "Entretien",
                     "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
                 },
@@ -800,6 +825,10 @@
                 {
                     "title": "Caractéristiques",
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible (+0,50 €)"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["3mm - 4cm de haut / 3.5cm de large"]
                 },
                 {
                     "title": "Entretien",
@@ -836,6 +865,52 @@
                 {
                     "title": "Caractéristiques",
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible (+0,50 €)"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["3mm - 6cm de haut / 3.5cm de large"]
+                },
+                {
+                    "title": "Entretien",
+                    "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
+                },
+                {
+                    "title": "Sécurité & âge recommandé",
+                    "lines": ["Déconseillé aux moins de 3 ans en raison de petits éléments (yeux de sécurité)", "Sur demande, les yeux peuvent être brodés pour une version adaptée aux tout-petits"]
+                },
+                {
+                    "title": "Idée cadeau",
+                    "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "name": "Tortue colorée",
+            "description": "Une tortue colorée et toute douce, avec sa carapace bien ronde et son rythme tranquille.",
+            "sizes": {
+                "8mm chenille": 25
+            },
+            "badge": {
+                "text": "En stock - 8mm",
+                "backgroundColor": "#DCFCE7",
+                "borderColor": "#22C55E",
+                "textColor": "#166534"
+            },
+            "categories": ["Peluche"],
+            "images": [
+                { "image": "/creations/tortue_4.jpg", "label": "8mm chenille" },
+                { "image": "/creations/tortue_5.jpg", "label": "8mm chenille" },
+                { "image": "/creations/tortue_6.jpg", "label": "8mm chenille" }
+            ],
+            "informations": [
+                {
+                    "title": "Caractéristiques",
+                    "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible sur les modèles 3mm (+0,50 €)"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["8mm - 12cm de haut / 35cm de large"]
                 },
                 {
                     "title": "Entretien",
