@@ -925,6 +925,42 @@
                     "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
                 }
             ]
+        },
+        {
+            "id": "27",
+            "name": "Kiwi",
+            "description": "Un kiwi tout doux, avec son long bec crème et son air paisible. Rond comme un œuf, câlin comme une peluche — un petit compagnon plein de tendresse.",
+            "sizes": {
+                "6mm chenille": 12
+            },
+            "categories": ["Peluche"],
+            "images": [
+                { "image": "/creations/kiwi_1.jpg", "label": "6mm chenille" },
+                { "image": "/creations/kiwi_2.jpg", "label": "6mm chenille" },
+                { "image": "/creations/kiwi_3.jpg", "label": "6mm chenille" }
+            ],
+            "informations": [
+                {
+                    "title": "Caractéristiques",
+                    "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["6mm - 9cm de haut / 8cm de large"]
+                },
+                {
+                    "title": "Entretien",
+                    "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
+                },
+                {
+                    "title": "Sécurité & âge recommandé",
+                    "lines": ["Déconseillé aux moins de 3 ans en raison de petits éléments (yeux de sécurité)", "Sur demande, les yeux peuvent être brodés pour une version adaptée aux tout-petits"]
+                },
+                {
+                    "title": "Idée cadeau",
+                    "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
+                }
+            ]
         }
     ],
     "patterns": [
