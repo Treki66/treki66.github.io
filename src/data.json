@@ -6,9 +6,8 @@
             "description": "Totoro et son petit compagnon, en version amigurumi ! Un duo tout doux inspiré de l'univers Ghibli, parfait pour la déco ou pour un câlin",
             "categories": ["Peluche"],
             "sizes": {
-                "3mm chenille": 20,
-                "3mm coton": 25,
-                "6mm chenille": 40
+                "3mm chenille/coton": 25,
+                "6mm chenille": 45
             },
             "images": [
                 { "image": "/creations/totoro_1.jpg", "label": "3mm chenille" },
@@ -78,8 +77,8 @@
             "name": "Quéquette",
             "description": "Bon, on ne va pas se mentir, celui-là fait toujours rire. Une création toute simple, un peu décalée, parfaite pour un cadeau d'anniversaire qui surprend (et qui détend l'ambiance).",
             "sizes": {
-                "3mm chenille": 5,
-                "3mm coton": 8,
+                "3mm chenille": 8,
+                "3mm coton": 10,
                 "6mm chenille": 15
             },
             "categories": ["Peluche"],
@@ -116,7 +115,7 @@
             "name": "Onigiri",
             "description": "Une petite boule de riz toute ronde, façon onigiri japonais. Mignonne, compacte et tellement pratique à emporter partout — sac, étagère, bureau, elle se sent bien n'importe où.",
             "sizes": {
-                "3mm chenille": 8,
+                "3mm chenille": 10,
                 "3mm coton": 12,
                 "6mm chenille": 18
             },
@@ -153,7 +152,7 @@
             "name": "Onigiri (Coussin)",
             "description": "La version XXL et moelleuse de l'onigiri : un vrai coussin, douillet et un peu décalé, pour le canapé ou le lit. Aussi à l'aise en déco qu'en câlin du soir.",
             "sizes": {
-                "6mm chenille": 40
+                "6mm chenille": 45
             },
             "categories": ["Coussin"],
             "images": [
@@ -184,7 +183,7 @@
             "name": "Méduse",
             "description": "Une méduse en crochet, avec ses tentacules qui ondulent doucement. Un peu hypnotisante, très apaisante — l'idéal pour une chambre ou un coin lecture.",
             "sizes": {
-                "3mm chenille": 8,
+                "3mm chenille": 10,
                 "3mm coton": 12
             },
             "categories": ["Porte-clé"],
@@ -282,7 +281,7 @@
             "name": "Montagne",
             "description": "Une petite montagne en crochet, toute douce et minimaliste, avec son grand sourire et sa joie contagieuse. Posée sur une étagère ou accrochée en porte-clé, elle apporte une touche fun et nature à n'importe quel coin.",
             "sizes": {
-                "3mm chenille": 8,
+                "3mm chenille": 10,
                 "3mm coton": 12,
                 "6mm chenille": 18
             },
@@ -357,7 +356,7 @@
             "sizes": {
                 "3mm chenille": 20,
                 "3mm coton": 25,
-                "6mm chenille": 40
+                "6mm chenille": 45
             },
             "categories": ["Peluche"],
             "images": [
@@ -422,9 +421,9 @@
             "name": "Âne Rigolo",
             "description": "La version un peu plus déjantée du petit âne, avec une bouille qui fait toujours rire. Même tendresse que son cousin, mais avec une bonne dose d'humour en plus.",
             "sizes": {
-                "3mm chenille": 15,
-                "3mm coton": 20,
-                "6mm chenille": 30
+                "3mm chenille": 18,
+                "3mm coton": 22,
+                "6mm chenille": 35
             },
             "categories": ["Peluche"],
             "images": [
@@ -500,7 +499,7 @@
             "sizes": {
                 "3mm chenille": 20,
                 "3mm coton": 25,
-                "6mm chenille": 35
+                "6mm chenille": 37
             },
             "categories": ["Peluche"],
             "images": [
@@ -515,7 +514,7 @@
                 },
                 {
                     "title": "Dimensions",
-                    "lines": ["6mm - 29cm de haut / 15cm de large"]
+                    "lines": ["6mm - 30cm de haut / 15cm de large"]
                 },
                 {
                     "title": "Entretien",
@@ -542,9 +541,7 @@
                 "textColor": "#166534"
             },
             "sizes": {
-                "3mm chenille": 15,
-                "3mm coton": 20,
-                "6mm chenille": 30
+                "6mm chenille": 15
             },
             "categories": ["Peluche"],
             "images": [
@@ -579,7 +576,7 @@
             "name": "Fleur mini-coussin",
             "description": "Un mini coussin en forme de fleur, parfait pour ajouter une touche de couleur sans prendre de place. Petit format, grand sourire garanti.",
             "sizes": {
-                "6mm chenille": 20
+                "6mm chenille": 25
             },
             "categories": ["Coussin"],
             "images": [
@@ -609,7 +606,7 @@
             "name": "Fleur coussin",
             "description": "La grande sœur du mini coussin fleur : même esprit, mais en format encore plus généreux et confortable. Parfaite pour le canapé ou pour un coin cocooning.",
             "sizes": {
-                "6mm chenille": 30
+                "6mm chenille": 45
             },
             "categories": ["Coussin"],
             "images": [
@@ -640,9 +637,9 @@
             "name": "Tortue",
             "description": "Une tortue toute douce, avec sa carapace bien ronde et son rythme tranquille. Disponible en peluche ou en porte-clé.",
             "sizes": {
-                "3mm chenille": 8,
-                "3mm coton": 12,
-                "6mm chenille": 18
+                "3mm chenille": 12,
+                "3mm coton": 15,
+                "6mm chenille": 25
             },
             "categories": ["Peluche", "Porte-clé"],
             "images": [
@@ -654,6 +651,10 @@
                 {
                     "title": "Caractéristiques",
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible sur les modèles 3mm (+0,50 €)"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["3mm - 11cm de long", "6mm - 20cm de long"]
                 },
                 {
                     "title": "Entretien",
@@ -674,7 +675,7 @@
             "name": "Fleur porte-clé",
             "description": "Une petite fleur en crochet, légère et discrète, pour accrocher à un sac ou à un trousseau de clés. Un petit détail fait main qui change tout.",
             "sizes": {
-                "3mm coton": 5
+                "3mm coton": 8
             },
             "categories": ["Porte-clé"],
             "images": [
@@ -720,6 +721,10 @@
                 {
                     "title": "Caractéristiques",
                     "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["6mm - 28cm de haut"]
                 },
                 {
                     "title": "Entretien",
@@ -774,9 +779,9 @@
             "name": "Koala",
             "description": "Un koala tout en rondeurs, avec ses grandes oreilles duveteuses, son ventre tout doux et son gros nez noir qui lui donne un air irrésistible. Increvable de mignonnerie, parfait pour un câlin ou une place d'honneur sur une étagère.",
             "sizes": {
-                "3mm chenille": 15,
-                "3mm coton": 20,
-                "6mm chenille": 30
+                "3mm chenille": 10,
+                "3mm coton": 12,
+                "6mm chenille": 22
             },
             "categories": ["Peluche"],
             "images": [
@@ -885,48 +890,6 @@
             ]
         },
         {
-            "id": "26",
-            "name": "Tortue colorée",
-            "description": "Une tortue colorée et toute douce, avec sa carapace bien ronde et son rythme tranquille.",
-            "sizes": {
-                "8mm chenille": 25
-            },
-            "badge": {
-                "text": "En stock - 8mm",
-                "backgroundColor": "#DCFCE7",
-                "borderColor": "#22C55E",
-                "textColor": "#166534"
-            },
-            "categories": ["Peluche"],
-            "images": [
-                { "image": "/creations/tortue_4.jpg", "label": "8mm chenille" },
-                { "image": "/creations/tortue_5.jpg", "label": "8mm chenille" },
-                { "image": "/creations/tortue_6.jpg", "label": "8mm chenille" }
-            ],
-            "informations": [
-                {
-                    "title": "Caractéristiques",
-                    "lines": ["Fait entièrement à la main", "Matériaux doux et adaptés aux enfants", "Temps de fabrication variable selon le modèle", "Porte-clé disponible sur les modèles 3mm (+0,50 €)"]
-                },
-                {
-                    "title": "Dimensions",
-                    "lines": ["8mm - 12cm de haut / 35cm de large"]
-                },
-                {
-                    "title": "Entretien",
-                    "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Séchage à l'air libre", "Ne pas utiliser de javel"]
-                },
-                {
-                    "title": "Sécurité & âge recommandé",
-                    "lines": ["Déconseillé aux moins de 3 ans en raison de petits éléments (yeux de sécurité)", "Sur demande, les yeux peuvent être brodés pour une version adaptée aux tout-petits"]
-                },
-                {
-                    "title": "Idée cadeau",
-                    "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
-                }
-            ]
-        },
-        {
             "id": "27",
             "name": "Kiwi",
             "description": "Un kiwi tout doux, avec son long bec crème et son air paisible. Rond comme un œuf, câlin comme une peluche — un petit compagnon plein de tendresse.",
@@ -959,6 +922,69 @@
                 {
                     "title": "Idée cadeau",
                     "lines": ["Idéal pour un anniversaire", "Un cadeau unique, fait main avec soin"]
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "name": "Éponge",
+            "description": "Une éponge au crochet qui a de la personnalité : banane, œuf, aubergine... à toi de choisir celle qui égayera ton évier. Douce pour la vaisselle, jolie à regarder, et bien plus fun qu'une éponge classique.",
+            "sizes": {
+                "4mm chenille": 8
+            },
+            "categories": ["Éponge"],
+            "images": [
+                { "image": "/creations/eponge_1.jpg", "label": "4mm chenille" },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                { "image": "/creations/eponge_2.jpg", "label": "4mm chenille" },
+                { "image": "/creations/eponge_3.jpg", "label": "4mm chenille" }
+            ],
+            "informations": [
+                {
+                    "title": "Caractéristiques",
+                    "lines": ["Fait entièrement à la main", "Lavable et réutilisable", "Plusieurs modèles disponibles (banane, œuf, aubergine...)", "Temps de fabrication variable selon le modèle"]
+                },
+                {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                    "title": "Dimensions",
+                    "lines": ["4mm - ~14cm de hauteur"]
+                },
+                {
+                    "title": "Entretien",                                                                                                                                                                                                                                               
+                    "lines": ["Rincer après chaque utilisation", "Lavage à l'eau tiède avec du savon", "Séchage à l'air libre", "Ne pas utiliser de javel"]
+                },
+                {
+                    "title": "Idée cadeau",
+                    "lines": ["Idéal pour une pendaison de crémaillère", "Un cadeau utile et zéro déchet", "Un cadeau unique, fait main avec soin"]
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "name": "Bandeau",
+            "description": "Un bandeau au crochet tout doux, pour garder les cheveux en arrière pendant ta routine du soir : démaquillage, masque, soin du visage. Moelleux sur la peau, bien en place et lavable, il rend le rituel beauté un peu plus agréable.",
+            "sizes": {
+                "6mm chenille": 20
+            },
+            "categories": ["Bandeau"],
+            "images": [
+                { "image": "/creations/bandeau_1.jpg", "label": "6mm chenille" },
+                { "image": "/creations/bandeau_2.jpg", "label": "6mm chenille" }
+            ],
+            "informations": [
+                {
+                    "title": "Caractéristiques",
+                    "lines": ["Fait entièrement à la main", "Matériaux doux au toucher", "Maintient les cheveux en arrière pendant le démaquillage et les soins", "Plusieurs coloris disponibles sur demande", "Temps de fabrication variable selon le modèle"]
+                },
+                {
+                    "title": "Dimensions",
+                    "lines": ["98cm de longueur avec les lanières", "54cm de longueur sans les lanières", "9cm de largeur", "Sur demande, possibilité d'adapter la taille"]
+                },
+                {
+                    "title": "Entretien",
+                    "lines": ["Lavage à l'eau froide/tiède à la main recommandé", "Rincer rapidement en cas de traces de maquillage ou de crème", "Séchage à plat, à l'air libre", "Ne pas utiliser de javel"]
+                },
+                {
+                    "title": "Idée cadeau",
+                    "lines": ["Idéal pour un anniversaire ou pour la fête des mères", "Parfait dans un coffret de soins ou pour une soirée détente", "Un cadeau unique, fait main avec soin"]
                 }
             ]
         }

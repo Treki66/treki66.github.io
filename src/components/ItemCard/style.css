@@ -36,25 +36,25 @@
   box-shadow: 0 4px 12px rgba(42, 33, 55, 0.06);
 }
 
-.card_image_wrapper {
+.card_image_wrapper {                                                                                                                                                                                                                                                                               
   position: relative;
   width: 100%;
   aspect-ratio: 3 / 4;
   overflow: hidden;
-  background: var(--background-tertiary-color);
+  background: var(--background-tertiary-color);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 }
 
 .card_image,
-.card_hover_image {
+.card_hover_image {                                                                                                                                                                                                                                                                                                                             
   background: var(--background-tertiary-color);
   position: absolute;
-  inset: 0;
+  inset: 0;                                                                                                                                                                                                                                                       
   width: 100%;
   height: 100%;
 }
 
 .card_image {
-  object-fit: cover;
+  object-fit: cover;                
   transition: opacity 0.35s ease;
 }
 
